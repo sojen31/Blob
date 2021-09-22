@@ -127,7 +127,7 @@ lampe = 6          # GPIO output to switch on the lamp via the relay    #  GPIO 
 #             MAIL VIA GMAIL
 
 courrielExpediteur = ''    # sender email   #email de l expediteur
-passExpediteur = ' '     #password    #mot de passe de l expediteur
+passExpediteur = ''     #password    #mot de passe de l expediteur
 courrielDestinataire = ''    # recipient email     #email du destinataire
 
 #######################################
